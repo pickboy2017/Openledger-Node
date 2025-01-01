@@ -7,9 +7,9 @@
 source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/Openledger-Node/refs/heads/main/Install-Openledger.sh)
 ```
 
-## After Installsation Complete Get Node Window & Login With Your 2nd Google Account
-## Connect Your Node
-## Run Your Node 24/7
+## - After Installsation Complete Get Node Window & Login With Your 2nd Google Account
+## - Connect Your Node
+## - Run Your Node 24/7
 
 ## Reopen Node Window Command
 `cd Openledger`
