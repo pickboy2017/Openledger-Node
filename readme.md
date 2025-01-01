@@ -8,6 +8,8 @@ source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/Openledger-Node/
 ```
 
 ## After Installsation Complete Get Node Window & Login With Your 2nd Google Account
+## Connect Your Node
+## Run Your Node 24/7
 
 ## Reopen Node Window Command
 `cd Openledger`
