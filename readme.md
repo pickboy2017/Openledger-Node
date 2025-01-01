@@ -1,4 +1,4 @@
-# Openledger Node Setup Guide WSL/VPS by HiddenGem
+# Openledger Node Setup One Command Guide WSL/VPS by HiddenGem
 
 ![image](https://github.com/user-attachments/assets/3f3dfdeb-de39-448b-a255-d1006447a2da)
 
@@ -7,22 +7,40 @@
 source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/Openledger-Node/refs/heads/main/Install-Openledger.sh)
 ```
 
-## - After Installsation Complete Get Node Window & Login With Your 2nd Google Account
-## - Connect Your Node
-## - Run Your Node 24/7
+### - After Installsation Complete Get Node Window & Login With Your 2nd Google Account
+### - Connect Your Node
+### - Login Your Dashboard & Complete Mission Daily
+### - Run Your Node 24/7
 
 ## Reopen Node Window Command
-`cd Openledger`
-`export DISPLAY=:0`
-`openledger-node --no-sandbox --disable-gpu`
+```
+cd Openledger
+```
+```
+export DISPLAY=:0
+```
+```
+openledger-node --no-sandbox --disable-gpu
+```
 
 ## How to Delete Node
-`ps aux | grep openledger-node`
-`kill <PID>`
-`sudo apt remove openledger-node`
-`sudo apt autoremove`
-`rm -rf ~/Openledger`
-`sudo apt-get remove libasound2 xvfb`
+```
+ps aux | grep openledger-node
+```
+```kill <PID>
+```
+```
+sudo apt remove openledger-node
+```
+```
+sudo apt autoremove
+```
+```
+rm -rf ~/Openledger
+```
+```
+sudo apt-get remove libasound2 xvfb
+```
 
 
 # ▄︻デ𝙂𝙚𝙩 𝙇𝙖𝙩𝙚𝙨𝙩 𝘼𝙞𝙧𝙙𝙧𝙤𝙥𝙨 & 𝙐𝙥𝙙𝙖𝙩𝙚𝙨═━一
