@@ -9,7 +9,7 @@ source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/Openledger-Node/
 
 ### - After Installsation Complete Get Node Window & Login With Your 2nd Google Account
 ### - Connect Your Node
-### - Login Your Dashboard & Complete Mission Daily
+### - Login Your [Dashboard](https://testnet.openledger.xyz) & Complete Mission Daily
 ### - Run Your Node 24/7
 
 ## Reopen Node Window Command
