@@ -27,7 +27,8 @@ openledger-node --no-sandbox --disable-gpu
 ```
 ps aux | grep openledger-node
 ```
-```kill <PID>
+```
+kill <PID>
 ```
 ```
 sudo apt remove openledger-node
