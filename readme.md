@@ -14,6 +14,15 @@ source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/Openledger-Node/
 `export DISPLAY=:0`
 `openledger-node --no-sandbox --disable-gpu`
 
+## How to Delete Node
+`ps aux | grep openledger-node`
+`kill <PID>`
+`sudo apt remove openledger-node`
+`sudo apt autoremove`
+`rm -rf ~/Openledger`
+`sudo apt-get remove libasound2 xvfb`
+
+
 # ▄︻デ𝙂𝙚𝙩 𝙇𝙖𝙩𝙚𝙨𝙩 𝘼𝙞𝙧𝙙𝙧𝙤𝙥𝙨 & 𝙐𝙥𝙙𝙖𝙩𝙚𝙨═━一
 
 ### ▄︻デ𝙅𝙤𝙞𝙣 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢═━一 [🎀  𝐻𝒾𝒹𝒹𝑒𝓃 𝒢𝑒𝓂  🎀](https://t.me/hiddengemnews) 
