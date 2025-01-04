@@ -11,11 +11,11 @@ mkdir Openledger
 cd Openledger
 
 # Upgrade the system
-sudo apt-get upgrade -y
+#sudo apt-get upgrade -y
 
 # Install Docker
-curl -fsSL https://get.docker.com -o get-docker.sh
-sudo sh get-docker.sh
+#curl -fsSL https://get.docker.com -o get-docker.sh
+#sudo sh get-docker.sh
 
 # Download Openledger Node package
 wget https://cdn.openledger.xyz/openledger-node-1.0.0-linux.zip
